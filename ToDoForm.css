@@ -1,0 +1,28 @@
+#pole1
+{
+    width: 202px;
+  cursor: pointer;
+  border-style: solid;
+  border-color: black;
+  border-width: 2px;
+  border-radius: 4px 0 0 4px;
+  text-transform: capitalize;
+  height: 25px;
+    margin-top: 5px;;
+}
+
+#przycisk2
+{
+    width: 55px;
+    border-radius: 0 4px 4px 0;
+    cursor: pointer;
+    background: linear-gradient(
+      90deg,
+      rgb(197, 40, 197) 10%,
+      rgba(155, 0, 250, 1) 90%
+    );
+    color: white;
+    text-transform: capitalize;
+    height: 31px;
+  
+}

@@ -1,0 +1,101 @@
+.App2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    width: 720px;
+    min-height: 600px;
+    background: rgb(173, 170, 170);
+    margin: 100px auto;
+    border-radius: 10px;
+    padding-bottom: 32px;
+    border: 3px solid black;
+  }
+  
+  .App3
+  {
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    text-align: center;
+  }
+  
+  body {
+    background: linear-gradient(
+      90deg,
+      rgb(211, 19, 19) 10%,
+      rgb(40, 171, 231) 90%
+      
+    );
+  }
+  
+  #przycisk1
+  {
+    width: 264px;
+    height: 30px;
+    text-align: center;
+    border: 2px black solid;
+    border-radius: 4px 4px 4px 4px;
+    cursor: pointer;
+    background: linear-gradient(
+      90deg,
+      rgb(197, 40, 197) 0%,
+      rgba(155, 0, 250, 1) 100%
+    );
+    color: white;
+    text-transform: capitalize;
+  
+  }
+  
+  #d
+  {
+  margin-left: -21px;
+  height: 3.5px;
+  background-color: black;
+  border: none;
+  }
+  
+  hr
+  {
+    margin-left: -1px;
+    height: 3px;
+  background-color: black;
+  border: none;
+  }
+  
+  
+  
+  .App-logo {
+    height: 40vmin;
+    pointer-events: none;
+  }
+  
+  @media (prefers-reduced-motion: no-preference) {
+    .App-logo {
+      animation: App-logo-spin infinite 20s linear;
+    }
+  }
+  
+  .App-header {
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
+  
+  .App-link {
+    color: #61dafb;
+  }
+  
+  @keyframes App-logo-spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+  

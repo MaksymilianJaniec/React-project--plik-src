@@ -1,0 +1,13 @@
+h1
+{
+font-family: cursive;
+
+text-align: center;
+
+background: linear-gradient(
+    90deg,
+    rgb(197, 40, 197) 10%,
+      rgba(155, 0, 250, 1) 90%
+  );
+margin-left: -0.5px;
+}

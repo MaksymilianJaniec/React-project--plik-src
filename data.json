@@ -1,0 +1,11 @@
+[{"id": 1, "zadanie": "Umycie psa", "ukonczenie": true},
+ {"id": 2,"zadanie": "Zrobić pranie","ukonczenie": true}, 
+ {"id": 3,"zadanie": "Umyć podłogę","ukonczenie": false}, 
+ {"id": 4,"zadanie": "Nakramić psa i kota","ukonczenie": true}, 
+ {"id": 5,"zadanie": "Zrobić zakupy","ukonczenie": false}, 
+ {"id": 6,"zadanie": "Zrobić projekt na ZAAW","ukonczenie": true}, 
+ {"id": 7,"zadanie": "Umyć oba samochody","ukonczenie": true}, 
+ {"id": 8,"zadanie": "Zmienić pościel","ukonczenie": false}, 
+ {"id": 9,"zadanie": "Pozmywać naczynia","ukonczenie": true}, 
+ {"id": 10,"zadanie": "Upiec ciasto na niedziele","ukonczenie": false}
+]
